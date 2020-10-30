@@ -1,4 +1,4 @@
-# BAD-ROBO [UPDATED] ⚡️
+# BAD ROBO [UPDATED] ⚡️
 
 ![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-16-21-54-43-1.png)
 
