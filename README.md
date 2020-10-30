@@ -1,6 +1,6 @@
 # BAD-ROBO [UPDATED] ⚡️
 
-![](https://github.com/jaleelx98/BadRobo/blob/main/Data/Data/Screenshot_2020-10-16-21-54-43-1.png)
+![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-16-21-54-43-1.png)
 
 ----
 ## Table of Contents
@@ -22,7 +22,7 @@
 - No Action Blockes
 - [Not Completely Free] Contact Us
 
-![](https://github.com/jaleelx98/BadRobo/blob/main/Data/Data/20201016_221726.gif)
+![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/20201016_221726.gif)
 
 ---
 # Features Of The BadRobo
@@ -36,7 +36,7 @@
 - Unfollow Non-Followers
 - Profile-Scraper
 
-![](https://github.com/jaleelx98/BadRobo/blob/main/Data/Data/Screenshot_2020-10-25-19-21-12-1.png)
+![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-25-19-21-12-1.png)
 
 ---
 # Installation
