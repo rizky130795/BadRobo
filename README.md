@@ -49,11 +49,15 @@ Step 2 (Open Bad-Robo Drectory)
 ```
 cd BadRobo
 ```
-Step 3 (Install BadRobo Requirements > This Take Some time 10-15 mints )
+Step 3 (Unzip BadRobo)
+```
+unzip BadRobo
+```
+Step 4 (Install BadRobo Requirements > This Take Some time 10-15 mints )
 ```
 pip install -r requirements.txt
 ```
-Step 4 (Run BadRobo)
+Step 5 (Run BadRobo)
 ```
 python badrobo.py
 ```
