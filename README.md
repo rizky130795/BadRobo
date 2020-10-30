@@ -51,7 +51,7 @@ cd BadRobo
 ```
 Step 3 (Unzip BadRobo)
 ```
-unzip BadRobo
+unzip BadRobo.zip
 ```
 Step 4 (Install BadRobo Requirements > This Take Some time 10-15 mints )
 ```
